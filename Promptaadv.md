@@ -27,3 +27,29 @@
 ![image](https://github.com/Seo1023/AI_Project_2026_01/blob/4e45a02b7b2499f8616db895cf6b7ab4892d984b/PROMPTADV/00015-2439482623.png?raw=true)
 
 >masterpiece, Fantasy, black hair, [cat : alien : 0.5]
+
+# Soft Edge
+
+![image](https://github.com/Seo1023/AI_Project_2026_01/blob/main/SoftEdge/00000-1894666664.png?raw=true)
+
+![image](https://github.com/Seo1023/AI_Project_2026_01/blob/main/SoftEdge/tmpzsmzehc1.png?raw=true)
+
+# Line Art
+
+![image](https://github.com/Seo1023/AI_Project_2026_01/blob/main/LineArt/tmpb4h4y8_i.png?raw=true)
+
+![image](https://github.com/Seo1023/AI_Project_2026_01/blob/main/LineArt/00001-3860904665.png?raw=true)
+
+# Scribble
+
+![image](https://github.com/Seo1023/AI_Project_2026_01/blob/main/Scribble/tmpnd3clybz.png?raw=true)
+
+![image](https://github.com/Seo1023/AI_Project_2026_01/blob/main/Scribble/00002-4134514625.png?raw=true)
+
+# Shuffle
+
+![image](https://github.com/Seo1023/AI_Project_2026_01/blob/main/Shuffle/00003-2947152739.png?raw=true)
+
+# Normal Map
+
+![image](https://github.com/Seo1023/AI_Project_2026_01/blob/main/NormalMap/00005-524084957.png?raw=true)
